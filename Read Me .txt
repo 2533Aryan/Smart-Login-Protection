@@ -18,8 +18,8 @@ STEPS To Install Program:-
 3) Now run Registration.py (already in folder) to register your Username and Password.
 
 4) Open Email.py in idle form (right-click the file > Edit with IDLE > IDLE) present in folder, 
-there you will find out sender_email, receiver_email and password of sender_email. Make sure to fill it correctly.
-"Don't forget to save the file"
+there you will find out sender_email, receiver_email and password of sender_email. 
+Make sure to fill it correctly in inverted commas. "Don't forget to save the file."
 
 5) Restart computer to see results.
 
