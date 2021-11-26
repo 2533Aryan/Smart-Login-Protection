@@ -29,7 +29,6 @@ def send():
 
     # Add body to email
     message.attach(MIMEText(body, "plain"))
-    print("hello world")
 
     try:
         
